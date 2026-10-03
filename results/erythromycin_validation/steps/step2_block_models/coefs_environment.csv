@@ -1,0 +1,6 @@
+﻿feature,feature_cn,role,standardized_coef,abs_coef
+Total Sugar,总糖,stabilizer,-199.14044371029195,199.14044371029195
+Time (h),时间(h),block,-166.75441287895183,166.75441287895183
+Tank Temperature,罐温,block,10.801866297975948,10.801866297975948
+pH Online,pH在线值,block,-3.6998844533331408,3.6998844533331408
+pH Offline,pH离线值,block,-1.6977251483455085,1.6977251483455085

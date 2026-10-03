@@ -1,0 +1,6 @@
+﻿model,family,r2_test,mae_test,interpretable_levels,time_varying,alarm_aware
+Hierarchical Meta Ridge (ours),Proposed,0.26925356705198356,199.57801297771996,3,True,True
+Flat Ridge (all block features),Baseline,0.22757589197568906,205.40966169876074,1,False,False
+Flat Ridge (Spearman drivers only),Baseline,0.2138075551237254,206.91826306197876,1,False,False
+Best single block Ridge,Baseline,0.2492560205745884,,1,False,False
+Mean of block Ridges,Baseline,0.2189582359907683,,2,False,False

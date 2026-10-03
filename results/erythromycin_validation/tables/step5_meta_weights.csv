@@ -1,0 +1,6 @@
+﻿source_id,source,standardized_weight,abs_share
+pred_environment,Environment,-146.9828386582036,0.307395
+pred_carbon_feed,Carbon Feed,123.31276419485764,0.257892
+pred_rheology,Rheology / Biomass,95.47580384251847,0.199675
+pred_oxygenation,Oxygenation,93.78097502005583,0.196130
+pred_nitrogen,Nitrogen,18.60392686524671,0.038908
